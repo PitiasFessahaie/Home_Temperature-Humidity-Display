@@ -2,7 +2,7 @@
 
 Project Hardware
 
-1.ESP8266
+1.ESP8266.  MicroPython (Thonny IDE)
 
 2.DHT11 --Temperature and Humidity Sensor
 
